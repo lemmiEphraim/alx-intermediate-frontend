@@ -1,1 +1,11 @@
+Download from nodejs.org (LTS version recommended).
 
+Open Terminal (Command Prompt, PowerShell, or VS Code’s terminal).
+
+Install SASS globally (allows use in any project):
+
+npm install -g sass
+
+Verify Installation:
+sass --version
+Should display the installed version (e.g., 1.70.0).
